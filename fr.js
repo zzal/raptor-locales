@@ -8,16 +8,16 @@
 registerLocale('fr', 'Français', {
     alignCenterTitle: 'Aligner au centre',
     alignJustifyTitle: 'Justifier',
-    alignLeftTitle: 'Aligner à gauche',
-    alignRightTitle: 'Aligner à droite',
+    alignLeftTitle: 'Aligner &agrave; gauche',
+    alignRightTitle: 'Aligner &agrave; droite',
 
     cancelDialogCancelButton: 'Fermer',
-    cancelDialogContent: 'Êtes-vous sûr(e) de vouloir arrêter la modification ? Toutes les modifications seront perdues !',
+    cancelDialogContent: 'Êtes-vous s&ucirc;r(e) de vouloir arr&ecirc;ter la modification ? Toutes les modifications seront perdues !',
     cancelDialogOKButton: 'OK',
-    cancelDialogTitle: 'Annuler l\'édition',
-    cancelTitle: 'Annuler l\'édition',
+    cancelDialogTitle: 'Annuler l\'&eacute;dition',
+    cancelTitle: 'Annuler l\'&eacute;dition',
 
-    classMenuTitle: 'Sélecteur de style',
+    classMenuTitle: 'S&eacute;lecteur de style',
     clearFormattingTitle: 'Effacer la mise en forme',
     clickButtonToEditText: 'Cliquer pour commencer la modification',
     clickButtonToEditTitle: null,
@@ -33,32 +33,32 @@ registerLocale('fr', 'Français', {
     colorMenuBasicTitle: 'Changer le couleur du texte',
     colorMenuBasicWhite: 'Blanc',
 
-    dockToElementTitle: 'Fixer l\'éditeur à l\'élément',
-    dockToScreenTitle: 'Fixer l\'éditeur à l\'écran',
+    dockToElementTitle: 'Fixer l\'&eacute;diteur &agrave; l\'&eacute;l&eacute;ment',
+    dockToScreenTitle: 'Fixer l\'&eacute;diteur &agrave; l\'&eacute;cran',
 
-    embedTitle: 'Object intégré',
-    embedDialogTitle: 'Object intégré',
-    embedDialogTabCode: 'Code intégré',
+    embedTitle: 'Object int&eacute;gr&eacute;',
+    embedDialogTitle: 'Object int&eacute;gr&eacute;',
+    embedDialogTabCode: 'Code int&eacute;gr&eacute;',
     embedDialogTabCodeContent: 'Collez votre code dans la zone de texte suivante :',
     embedDialogTabPreview: 'Aperçu',
     embedDialogTabPreviewContent: 'Un aperçu de votre code est disponible ci-dessous :',
-    embedDialogOKButton: 'Intégrer l\'objet',
+    embedDialogOKButton: 'Int&eacute;grer l\'objet',
     embedDialogCancelButton: 'Annuler',
 
-    errorUINoName: 'UI "{{ui}}" est invalide (doit posséder une propriété "name")',
-    errorUINotObject: 'UI "{{ui}}" est invalide (doit être un objet)',
-    errorUIOverride: 'UI "{{name}}" a déjà été définie, et sera écrasée',
+    errorUINoName: 'UI "{{ui}}" est invalide (doit poss&eacute;der une propri&eacute;t&eacute; "name")',
+    errorUINotObject: 'UI "{{ui}}" est invalide (doit &ecirc;tre un objet)',
+    errorUIOverride: 'UI "{{name}}" a d&eacute;j&agrave; &eacute;t&eacute; d&eacute;finie, et sera &eacute;cras&eacute;e',
 
-    floatLeftTitle: 'Image à gauche du texte',
+    floatLeftTitle: 'Image &agrave; gauche du texte',
     floatNoneTitle: 'Retirer l\'aligement de l\'image',
-    floatRightTitle: 'Image à droite du texte',
+    floatRightTitle: 'Image &agrave; droite du texte',
 
     guidesTitle: 'Afficher les guides',
 
-    historyRedoTitle: 'Rétablir',
+    historyRedoTitle: 'R&eacute;tablir',
     historyUndoTitle: 'Annuler',
 
-    hrCreateTitle: 'Insérer une ligne horizontale',
+    hrCreateTitle: 'Ins&eacute;rer une ligne horizontale',
 
     imageResizeButtonText: 'Redimmensionner l\'image',
     imageResizeButtonDialogWidth: 'Largeur de l\'image',
@@ -69,8 +69,8 @@ registerLocale('fr', 'Français', {
     imageResizeButtonDialogOKButton: 'Redimmensionner',
     imageResizeButtonDialogCancelButton: 'Annuler',
 
-    insertFileTitle: 'Insérer un fichier',
-    insertFileDialogOKButton: 'Insérer le fichier',
+    insertFileTitle: 'Ins&eacute;rer un fichier',
+    insertFileDialogOKButton: 'Ins&eacute;rer le fichier',
     insertFileDialogCancelButton: 'Anuuler',
     insertFileURLLabel: 'URL du fichier',
     insertFileNameLabel: 'Nom du fichier',
@@ -87,14 +87,14 @@ registerLocale('fr', 'Français', {
     languageMenuSV: 'Svensk',
     languageMenuZHCN: '简体中文版',
 
-    listOrderedTitle: 'Liste ordonnée',
-    listUnorderedTitle: 'Liste non ordonnée',
+    listOrderedTitle: 'Liste ordonn&eacute;e',
+    listUnorderedTitle: 'Liste non ordonn&eacute;e',
 
-    linkCreateTitle: 'Insérer un lien',
+    linkCreateTitle: 'Ins&eacute;rer un lien',
     linkRemoveTitle: 'Supprimer le lien',
 
-    linkCreateDialogTitle: 'Insérer un lien',
-    linkCreateDialogOKButton: 'Insérer un lien',
+    linkCreateDialogTitle: 'Ins&eacute;rer un lien',
+    linkCreateDialogOKButton: 'Ins&eacute;rer un lien',
     linkCreateDialogCancelButton: 'Annuler',
     linkCreateDialogMenuHeader: 'Choisissez un type de lien :',
 
@@ -109,10 +109,10 @@ registerLocale('fr', 'Français', {
     linkTypeExternalHeader: 'Lien vers une page sur un autre site',
     linkTypeExternalLocationLabel: 'Emplacement',
     linkTypeExternalLocationPlaceHolder: 'Entrer une URL',
-    linkTypeExternalNewWindowHeader: 'Nouvelle fenêtre',
-    linkTypeExternalNewWindowLabel: 'Cochez cette case pour ouvrir le lien dans une nouvelle fenêtre de navigateur.',
+    linkTypeExternalNewWindowHeader: 'Nouvelle fen&ecirc;tre',
+    linkTypeExternalNewWindowLabel: 'Cochez cette case pour ouvrir le lien dans une nouvelle fen&ecirc;tre de navigateur.',
     linkTypeExternalInfo:
-        '<h2>Pas sûr(e) de savoir quoi mettre dans le champ ci-dessus ?</h2>' +
+        '<h2>Pas s&ucirc;r(e) de savoir quoi mettre dans le champ ci-dessus ?</h2>' +
         '<ol>' +
         '    <li>Trouvez la page web que vous voulez lier.</li>' +
         '    <li>Copiez l\'adresse de la barre d\'adresse de votre navigateur et collez-la dans le champs ci-dessous.</li>' +
@@ -122,13 +122,13 @@ registerLocale('fr', 'Français', {
     linkTypeDocumentHeader: 'Lien vers un document ou un autre fichier',
     linkTypeDocumentLocationLabel: 'Emplacement :',
     linkTypeDocumentLocationPlaceHolder: 'Entrer une URL',
-    linkTypeDocumentNewWindowHeader: 'Nouvelle fenêtre',
-    linkTypeDocumentNewWindowLabel: 'Cochez cette case pour ouvrir le lien dans une nouvelle fenêtre de navigateur.',
+    linkTypeDocumentNewWindowHeader: 'Nouvelle fen&ecirc;tre',
+    linkTypeDocumentNewWindowLabel: 'Cochez cette case pour ouvrir le lien dans une nouvelle fen&ecirc;tre de navigateur.',
     linkTypeDocumentInfo:
-        '<h2>Pas sûr(e) de savoir quoi mettre dans le champ ci-dessus ?</h2>' +
+        '<h2>Pas s&ucirc;r(e) de savoir quoi mettre dans le champ ci-dessus ?</h2>' +
         '<ol>' +
-        '    <li>Assurez-vous que le fichier a bien été envoyé sur votr site</li>' +
-        '    <li>Ouvrez le fichier envoyé dans votre navigateur.</li>' +
+        '    <li>Assurez-vous que le fichier a bien &eacute;t&eacute; envoy&eacute; sur votr site</li>' +
+        '    <li>Ouvrez le fichier envoy&eacute; dans votre navigateur.</li>' +
         '    <li>Copiez l\'adresse de la barre d\'adresse de votre navigateur et collez-la dans le champs ci-dessous.</li>' +
         '</ol>',
 
@@ -136,24 +136,24 @@ registerLocale('fr', 'Français', {
     linkTypeInternalHeader: 'Lien vers une page de ce site',
     linkTypeInternalLocationLabel: '',
     linkTypeInternalLocationPlaceHolder: 'Entrer une URI',
-    linkTypeInternalNewWindowHeader: 'Nouvelle fenêtre',
-    linkTypeInternalNewWindowLabel: 'Cochez cette case pour ouvrir le lien dans une nouvelle fenêtre de navigateur.',
+    linkTypeInternalNewWindowHeader: 'Nouvelle fen&ecirc;tre',
+    linkTypeInternalNewWindowLabel: 'Cochez cette case pour ouvrir le lien dans une nouvelle fen&ecirc;tre de navigateur.',
     linkTypeInternalInfo:
-        '<h2>Pas sûr(e) de savoir quoi mettre dans le champ ci-dessus ?</h2>' +
+        '<h2>Pas s&ucirc;r(e) de savoir quoi mettre dans le champ ci-dessus ?</h2>' +
         '<ol>' +
         '    <li>Trouvez la page web que vous voulez lier.</li>' +
         '    <li>Copiez l\'adresse de la barre d\'adresse de votre navigateur, sans "{{domain}}" et collez-la dans le champs ci-dessous..</li>' +
         '</ol>',
 
-    logoTitle: 'En savoir plus sur l\'éditeur WYSIWYG Raptor',
+    logoTitle: 'En savoir plus sur l\'&eacute;diteur WYSIWYG Raptor',
 
-    navigateAway: '\nil y a des modifications non enregistrées sur ce site. Si vous quittez cette page, elles seront définitivements perdues',
+    navigateAway: '\nIl y a des modifications non enregistr&eacute;es sur ce site. Si vous quittez cette page, elles seront d&eacute;finitivements perdues',
 
     pasteDialogTitle: 'Coller',
-    pasteDialogOKButton: 'Insérer',
+    pasteDialogOKButton: 'Ins&eacute;rer',
     pasteDialogCancelButton: 'Annuler',
-    pasteDialogPlain: 'Texte brute',
-    pasteDialogFormattedCleaned: 'Mis en forme &amp; nettoyé',
+    pasteDialogPlain: 'Texte brut',
+    pasteDialogFormattedCleaned: 'Mis en forme &amp; nettoy&eacute;',
     pasteDialogFormattedUnclean: 'Mis en forme sans nettoyage',
     pasteDialogSource: 'Code source',
 
@@ -161,38 +161,38 @@ registerLocale('fr', 'Français', {
 
     saveTitle: 'Enregistrer le contenu',
     saveJsonFail: 'Impossible d\'enregistrer {{failed}} bloc(s) de contenu',
-    saveJsonSaved: 'Enregistrement effectué de {{saved}} bloc(s) de contenu.',
+    saveJsonSaved: 'Enregistrement effectu&eacute; de {{saved}} bloc(s) de contenu.',
     saveRestFail: 'Impossible d\'enregistrer {{failed}} bloc(s) de contenu.',
     saveRestPartial: 'Enregistrement de {{saved}} sur {{failed}} bloc(s) de contenu.',
-    saveRestSaved: 'Enregistrement effectué {{saved}} bloc(s) de contenu.',
+    saveRestSaved: 'Enregistrement effectu&eacute; {{saved}} bloc(s) de contenu.',
 
     snippetMenuTitle: 'Fragments',
 
     specialCharactersDialogOKButton: 'OK',
-    specialCharactersDialogTitle: 'Insérer un caractère spécial',
-    specialCharactersHelp: 'Cliquez sur un caractère spécial pour l\'ajouter. Cliquez sur "OK" lorsque vous avez fini pour fermer la fenêtre.',
-    specialCharactersTitle: 'Insérer un caractère spécial',
+    specialCharactersDialogTitle: 'Ins&eacute;rer un caract&egrave;re sp&eacute;cial',
+    specialCharactersHelp: 'Cliquez sur un caract&egrave;re sp&eacute;cial pour l\'ajouter. Cliquez sur "OK" lorsque vous avez fini pour fermer la fen&ecirc;tre.',
+    specialCharactersTitle: 'Ins&eacute;rer un caract&egrave;re sp&eacute;cial',
 
-    statisticsButtonCharacterOverLimit: '{{charactersRemaining}} caractères au-dessus de la limite',
-    statisticsButtonCharacterRemaining: '{{charactersRemaining}} caractères restants',
-    statisticsButtonCharacters: '{{characters}} caractères',
-    statisticsDialogCharactersOverLimit: '{{characters}} caractères, {{charactersRemaining}} au-dessus de la limite',
-    statisticsDialogCharactersRemaining: '{{characters}} caractères, {{charactersRemaining}} restants',
-    statisticsDialogNotTruncated: 'Le contenu ne sera pas tronqué',
+    statisticsButtonCharacterOverLimit: '{{charactersRemaining}} caract&egrave;res au-dessus de la limite',
+    statisticsButtonCharacterRemaining: '{{charactersRemaining}} caract&egrave;res restants',
+    statisticsButtonCharacters: '{{characters}} caract&egrave;res',
+    statisticsDialogCharactersOverLimit: '{{characters}} caract&egrave;res, {{charactersRemaining}} au-dessus de la limite',
+    statisticsDialogCharactersRemaining: '{{characters}} caract&egrave;res, {{charactersRemaining}} restants',
+    statisticsDialogNotTruncated: 'Le contenu ne sera pas tronqu&eacute;',
     statisticsDialogOKButton: 'OK',
     statisticsDialogSentence: '{{sentences}} phrase',
     statisticsDialogSentences: '{{sentences}} phrases',
     statisticsDialogTitle: 'Statistiques de contenu',
-    statisticsDialogTruncated: 'Le contenu contient plus de {{limit}} caractères et peut être tronqué',
+    statisticsDialogTruncated: 'Le contenu contient plus de {{limit}} caract&egrave;res et peut &ecirc;tre tronqu&eacute;',
     statisticsDialogWord: '{{words}} mot',
     statisticsDialogWords: '{{words}} mots',
     statisticsTitle: 'Cliquez pour voir les statistiques',
 
-    tableCreateTitle: 'Créer un tableau',
+    tableCreateTitle: 'Cr&eacute;er un tableau',
     tableDeleteColumnTitle: 'Supprimer une colonne du tableau',
     tableDeleteRowTitle: 'Supprimer une ligne du tableau',
-    tableInsertColumnTitle: 'Insérer une colonne',
-    tableInsertRowTitle: 'Insérer une ligne',
+    tableInsertColumnTitle: 'Ins&eacute;rer une colonne',
+    tableInsertRowTitle: 'Ins&eacute;rer une ligne',
     tableMergeCellsTitle: 'Fusionner des cellules',
     tableSplitCellsTitle: 'Tronquer des cellules',
 
@@ -203,52 +203,52 @@ registerLocale('fr', 'Français', {
     tagMenuTagNA: 'N/A',
     tagMenuTagP: 'Paragraphe',
     tagMenuTagDiv: 'Div',
-    tagMenuTagPre: 'Pré-formaté',
+    tagMenuTagPre: 'Pr&eacute;-format&eacute;',
     tagMenuTagAddress: 'Address',
-    tagMenuTitle: 'Modifier le style de l\'élément',
+    tagMenuTitle: 'Modifier le style de l\'&eacute;l&eacute;ment',
 
-    tagTreeElementLink: 'Sélectionner l\'élément {{element}}',
-    tagTreeElementTitle: 'Cliquer pour sélectionner le contenu de l\'élément "{{element}}"',
+    tagTreeElementLink: 'S&eacute;lectionner l\'&eacute;l&eacute;ment {{element}}',
+    tagTreeElementTitle: 'Cliquer pour s&eacute;lectionner le contenu de l\'&eacute;l&eacute;ment "{{element}}"',
     tagTreeRoot: 'racine',
-    tagTreeRootLink: 'Sélectionner tout le contenu modifiable',
-    tagTreeRootTitle: 'Cliquer pour sélectionner tout le contenu modifiable',
+    tagTreeRootLink: 'S&eacute;lectionner tout le contenu modifiable',
+    tagTreeRootTitle: 'Cliquer pour s&eacute;lectionner tout le contenu modifiable',
 
     textBlockQuoteTitle: 'Citation',
     textBoldTitle: 'Gras',
     textItalicTitle: 'Italique',
-    textStrikeTitle: 'Barré',
+    textStrikeTitle: 'Barr&eacute;',
     textSubTitle: 'Indice',
     textSuperTitle: 'Exposant',
-    textUnderlineTitle: 'Souligné',
+    textUnderlineTitle: 'Soulign&eacute;',
     textSizeDecreaseTitle: 'Diminuer la taille du texte',
     textSizeIncreaseTitle: 'Augmenter la taille du texte',
 
-    unsavedEditWarningText: 'Il y a des modifications non enregistrées sur cette page',
+    unsavedEditWarningText: 'Il y a des modifications non enregistr&eacute;es sur cette page',
 
-    revisionsText: 'Révisions',
-    revisionsTextEmpty: 'Aucune révision',
+    revisionsText: 'R&eacute;visions',
+    revisionsTextEmpty: 'Aucune r&eacute;vision',
     revisionsTitle: null,
-    revisionsApplyButtonTitle: 'Revenir en arrière',
-    revisionsAJAXFailed: 'Impossible de récupérer les révisions',
+    revisionsApplyButtonTitle: 'Revenir en arri&egrave;re',
+    revisionsAJAXFailed: 'Impossible de r&eacute;cup&eacute;rer les r&eacute;visions',
     revisionsApplyButtonDialogCancelButton: 'Annuler',
-    revisionsApplyButtonDialogOKButton: 'Revenir en arrière',
-    revisionsApplyButtonDialogTitle: 'Confirmer le retour en arrière',
-    revisionsApplyDialogContent: 'Cela remplacera le contenu actuel par celui de la révision sélectionnée.<br/>Le contenu actuel sera ajouté comme une révision, et sera visible dans la liste des révisions pour ce bloc.',
+    revisionsApplyButtonDialogOKButton: 'Revenir en arri&egrave;re',
+    revisionsApplyButtonDialogTitle: 'Confirmer le retour en arri&egrave;re',
+    revisionsApplyDialogContent: 'Cela remplacera le contenu actuel par celui de la r&eacute;vision s&eacute;lectionn&eacute;e.<br/>Le contenu actuel sera ajout&eacute; comme une r&eacute;vision, et sera visible dans la liste des r&eacute;visions pour ce bloc.',
     revisionsDialogCancelButton: 'Annuler',
-    revisionsDialogTitle: 'Voir le contenu des révisions',
+    revisionsDialogTitle: 'Voir le contenu des r&eacute;visions',
     revisionsButtonCurrent: 'Actuelle',
-    revisionsButtonViewDiffText: 'Différences',
+    revisionsButtonViewDiffText: 'Diff&eacute;rences',
     revisionsButtonViewDiffTitle: null,
     revisionsDiffButtonDialogCancelButton: 'Fermer',
-    revisionsDiffButtonDialogTitle: 'Voir les différences',
-    revisionsDiffButtonTitle: 'Voir les différences',
-    revisionsLoading: 'Chargement des révisions...',
-    revisionsNone: 'Pas de révision pour cet élément',
+    revisionsDiffButtonDialogTitle: 'Voir les diff&eacute;rences',
+    revisionsDiffButtonTitle: 'Voir les diff&eacute;rences',
+    revisionsLoading: 'Chargement des r&eacute;visions...',
+    revisionsNone: 'Pas de r&eacute;vision pour cet &eacute;l&eacute;ment',
     revisionsPreviewButtonTitle: 'Aperçu',
 
     viewSourceDialogCancelButton: 'Fermer',
-    viewSourceDialogOKButton: 'Appliquer la source code',
+    viewSourceDialogOKButton: 'Appliquer le code source',
     viewSourceDialogTitle: 'Code source du contenu',
-    viewSourceTitle: 'Voir / Modifier la source code'
+    viewSourceTitle: 'Voir / Modifier le code source'
 
 });
