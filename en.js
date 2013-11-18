@@ -167,7 +167,7 @@ extendLocale('en', 'English', {
     pasteDialogFormattedUnclean: 'Formatted Unclean',
     pasteDialogSource: 'Source Code',
 
-    placeholderPluginDefaultContent: '&nbsp;',
+    placeholderPluginDefaultContent: '<br/>',
 
     saveTitle: 'Save content',
     saveJsonFail: 'Failed to save {{failed}} content block(s)',

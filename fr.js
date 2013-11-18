@@ -157,7 +157,7 @@ registerLocale('fr', 'Français', {
     pasteDialogFormattedUnclean: 'Mis en forme sans nettoyage',
     pasteDialogSource: 'Code source',
 
-    placeholderPluginDefaultContent: '&nbsp;',
+    placeholderPluginDefaultContent: '<br/>',
 
     saveTitle: 'Enregistrer le contenu',
     saveJsonFail: 'Impossible d\'enregistrer {{failed}} bloc(s) de contenu',
