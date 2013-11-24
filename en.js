@@ -170,6 +170,7 @@ extendLocale('en', 'English', {
     placeholderPluginDefaultContent: '<br/>',
 
     saveTitle: 'Save content',
+    saveNotConfigured: 'Save has not been configured, or is disabled.',
     saveJsonFail: 'Failed to save {{failed}} content block(s)',
     saveJsonSaved: 'Successfully saved {{saved}} content block(s).',
     saveRestFail: 'Failed to save {{failed}} content block(s).',
