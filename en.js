@@ -88,15 +88,7 @@ extendLocale('en', 'English', {
     insertFileNamePlaceHolder: 'File Name...',
 
     languageMenuTitle: 'Change Language',
-    languageMenuEN: 'English',
-    languageMenuDE: 'German',
-    languageMenuES: 'Spanish',
-    languageMenuFR: 'French',
-    languageMenuNL: 'Dutch',
-    languageMenuRU: 'Russian',
-    languageMenuSV: 'Swedish',
-    languageMenuZHCN: 'Simplified Chinese',
-
+    
     listOrderedTitle: 'Ordered list',
     listUnorderedTitle: 'Unordered list',
 
