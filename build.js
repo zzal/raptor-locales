@@ -24,22 +24,6 @@ builder.addLocale({
 });
 
 builder.addLocale({
-    name: 'zh-CHS',
-    description: 'Chinese (Simplified)',
-    files: [
-        __dirname + '/zh-CHS.js'
-    ]
-});
-
-builder.addLocale({
-    name: 'zh-CHT',
-    description: 'Chinese (Traditional)',
-    files: [
-        __dirname + '/zh-CHT.js'
-    ]
-});
-
-builder.addLocale({
     name: 'cs',
     description: 'Czech',
     files: [
@@ -56,10 +40,18 @@ builder.addLocale({
 });
 
 builder.addLocale({
-    name: 'nl',
-    description: 'Dutch',
+    name: 'de',
+    description: 'German',
     files: [
-        __dirname + '/nl.js'
+        __dirname + '/de.js'
+    ]
+});
+
+builder.addLocale({
+    name: 'el',
+    description: 'Greek',
+    files: [
+        __dirname + '/el.js'
     ]
 });
 
@@ -68,6 +60,14 @@ builder.addLocale({
     description: 'English',
     files: [
         __dirname + '/en.js'
+    ]
+});
+
+builder.addLocale({
+    name: 'es',
+    description: 'Spanish',
+    files: [
+        __dirname + '/es.js'
     ]
 });
 
@@ -104,30 +104,6 @@ builder.addLocale({
 });
 
 builder.addLocale({
-    name: 'de',
-    description: 'German',
-    files: [
-        __dirname + '/de.js'
-    ]
-});
-
-builder.addLocale({
-    name: 'el',
-    description: 'Greek',
-    files: [
-        __dirname + '/el.js'
-    ]
-});
-
-builder.addLocale({
-    name: 'ht',
-    description: 'Haitian Creole',
-    files: [
-        __dirname + '/ht.js'
-    ]
-});
-
-builder.addLocale({
     name: 'he',
     description: 'Hebrew',
     files: [
@@ -140,6 +116,14 @@ builder.addLocale({
     description: 'Hindi',
     files: [
         __dirname + '/hi.js'
+    ]
+});
+
+builder.addLocale({
+    name: 'ht',
+    description: 'Haitian Creole',
+    files: [
+        __dirname + '/ht.js'
     ]
 });
 
@@ -184,18 +168,18 @@ builder.addLocale({
 });
 
 builder.addLocale({
-    name: 'lv',
-    description: 'Latvian',
-    files: [
-        __dirname + '/lv.js'
-    ]
-});
-
-builder.addLocale({
     name: 'lt',
     description: 'Lithuanian',
     files: [
         __dirname + '/lt.js'
+    ]
+});
+
+builder.addLocale({
+    name: 'lv',
+    description: 'Latvian',
+    files: [
+        __dirname + '/lv.js'
     ]
 });
 
@@ -212,6 +196,14 @@ builder.addLocale({
     description: 'Hmong Daw',
     files: [
         __dirname + '/mww.js'
+    ]
+});
+
+builder.addLocale({
+    name: 'nl',
+    description: 'Dutch',
+    files: [
+        __dirname + '/nl.js'
     ]
 });
 
@@ -272,14 +264,6 @@ builder.addLocale({
 });
 
 builder.addLocale({
-    name: 'es',
-    description: 'Spanish',
-    files: [
-        __dirname + '/es.js'
-    ]
-});
-
-builder.addLocale({
     name: 'sv',
     description: 'Swedish',
     files: [
@@ -324,5 +308,21 @@ builder.addLocale({
     description: 'Vietnamese',
     files: [
         __dirname + '/vi.js'
+    ]
+});
+
+builder.addLocale({
+    name: 'zh-CHS',
+    description: 'Chinese (Simplified)',
+    files: [
+        __dirname + '/zh-CHS.js'
+    ]
+});
+
+builder.addLocale({
+    name: 'zh-CHT',
+    description: 'Chinese (Traditional)',
+    files: [
+        __dirname + '/zh-CHT.js'
     ]
 });
