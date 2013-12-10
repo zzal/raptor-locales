@@ -88,7 +88,9 @@ extendLocale('en', 'English', {
     insertFileNamePlaceHolder: 'File Name...',
 
     languageMenuTitle: 'Change Language',
-    
+
+    loremIpsumTitle: 'Insert dummy text for testing',
+
     listOrderedTitle: 'Ordered list',
     listUnorderedTitle: 'Unordered list',
 
@@ -171,9 +173,13 @@ extendLocale('en', 'English', {
 
     snippetMenuTitle: 'Snippets',
 
+    specialCharactersArrows: 'Arrows',
     specialCharactersDialogOKButton: 'OK',
     specialCharactersDialogTitle: 'Insert Special Characters',
+    specialCharactersGreekAlphabet: 'Greek Alphabet',
     specialCharactersHelp: 'Click a special character to add it. Click "OK" when done to close this dialog',
+    specialCharactersMathematics: 'Mathematics',
+    specialCharactersSymbols: 'Symbols',
     specialCharactersTitle: 'Insert a special character',
 
     statisticsButtonCharacterOverLimit: '{{charactersRemaining}} characters over limit',
@@ -231,7 +237,9 @@ extendLocale('en', 'English', {
     revisionsText: 'Revisions',
     revisionsTextEmpty: 'No Revisions',
     revisionsTitle: null,
+    revisionsCreated: 'Created',
     revisionsApplyButtonTitle: 'Rollback',
+    revisionsApplyButtonText: 'Rollback',
     revisionsAJAXFailed: 'Failed to retrieve revisions',
     revisionsApplyButtonDialogCancelButton: 'Cancel',
     revisionsApplyButtonDialogOKButton: 'Rollback',
@@ -245,10 +253,14 @@ extendLocale('en', 'English', {
     revisionsDiffButtonDialogCancelButton: 'Close',
     revisionsDiffButtonDialogTitle: 'View differences',
     revisionsDiffButtonTitle: 'View differences',
+    revisionsDiffButtonText: 'View differences',
     revisionsLoading: 'Loading revisions...',
     revisionsNone: 'No revisions for this element',
     revisionsPreviewButtonTitle: 'Preview',
+    revisionsPreviewButtonText: 'Preview',
 
+    fileManagerDialogTitle: 'File Manager',
+    fileManagerTitle: 'File Manager',
     rfmClose: 'Close',
     rfmContinue: 'Continue',
     rfmDelete: 'Delete',
@@ -267,14 +279,15 @@ extendLocale('en', 'English', {
     rfmInsert: 'Insert',
     rfmLast: 'Last',
     rfmSearch: 'Go',
+    rfmTagDocument: 'Document',
+    rfmTagImage: 'Image',
     rfmTotal: ', filtered from {{total}}',
     rfmUpload: 'Upload',
     rfmUploadBrowse: 'Browse',
     rfmUploadDrop: 'Drop Files Here',
     rfmUploadFileRemove: 'Remove',
+    rfmUploadOr: 'or',
     rfmView: 'View',
-    fileManagerTitle: 'File Manager',
-    fileManagerDialogTitle: 'File Manager',
 
     viewSourceDialogCancelButton: 'Close',
     viewSourceDialogOKButton: 'Apply source code',
