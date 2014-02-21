@@ -22,6 +22,8 @@ extendLocale('en', 'English', {
     clickButtonToEditText: 'Edit',
     clickButtonToEditTitle: null,
 
+    closeTitle: 'Close this toolbar',
+
     colorMenuBasicAutomatic: 'Automatic',
     colorMenuBasicBlack: 'Black',
     colorMenuBasicBlue: 'Blue',
@@ -52,7 +54,7 @@ extendLocale('en', 'English', {
     floatLeftTitle: 'Align image to the left',
     floatNoneTitle: 'Remove image align',
     floatRightTitle: 'Align image to the right',
-    
+
     fontFamilyMenuTitle: 'Choose your font',
     fontFamilyMenuFontDefault: 'Default Font',
     fontFamilyMenuFontArial: 'Arial',
@@ -70,16 +72,17 @@ extendLocale('en', 'English', {
 
     hrCreateTitle: 'Insert Horizontal Rule',
 
-    imageResizeButtonText: 'Resize Image',
-    imageResizeButtonDialogWidth: 'Image width',
-    imageResizeButtonDialogHeight: 'Image height',
-    imageResizeButtonDialogWidthPlaceHolder: 'Width',
-    imageResizeButtonDialogHeightPlaceHolder: 'Height',
-    imageResizeButtonDialogTitle: 'Resize Image',
-    imageResizeButtonDialogOKButton: 'Resize',
-    imageResizeButtonDialogCancelButton: 'Cancel',
+    imageResizeDialogWidth: 'Image width',
+    imageResizeDialogHeight: 'Image height',
+    imageResizeDialogWidthPlaceHolder: 'Width',
+    imageResizeDialogHeightPlaceHolder: 'Height',
+    imageResizeDialogTitle: 'Resize Image',
+    imageResizeDialogOKButton: 'Resize',
+    imageResizeDialogCancelButton: 'Cancel',
+    imageResizeTitle: 'Resize this image',
 
     insertFileTitle: 'Insert file',
+    insertFileDialogTitle: 'Insert file',
     insertFileDialogOKButton: 'Insert file',
     insertFileDialogCancelButton: 'Cancel',
     insertFileURLLabel: 'File URL',
@@ -196,6 +199,8 @@ extendLocale('en', 'English', {
     statisticsDialogWord: '{{words}} word',
     statisticsDialogWords: '{{words}} words',
     statisticsTitle: 'Click to view statistics',
+
+    imageSwapTitle: 'Swap this image',
 
     tableCreateTitle: 'Create table',
     tableDeleteColumnTitle: 'Delete table column',
