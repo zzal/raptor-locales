@@ -294,6 +294,11 @@ extendLocale('en', 'English', {
     rfmUploadOr: 'or',
     rfmView: 'View',
 
+    rieActionSave: 'Save',
+    imageEditorDialogTitle: 'Image Editor',
+    imageEditorDialogOKButton: 'Save',
+    imageEditorDialogCancelButton: 'Cancel',
+
     viewSourceDialogCancelButton: 'Close',
     viewSourceDialogOKButton: 'Apply source code',
     viewSourceDialogTitle: 'Content source code',
