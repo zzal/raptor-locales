@@ -314,8 +314,9 @@ extendLocale('en', 'English', {
     rieActionGlow: 'Glow',
     rieActionHsl: 'Hue, Saturation, Lightness.',
     rieActionPosterize: 'Posterize',
+    rieActionSave: 'Save',
     imageEditorDialogTitle: 'Image Editor',
-    imageEditorDialogOKButton: 'Apply',
+    imageEditorDialogOKButton: 'Save',
     imageEditorDialogCancelButton: 'Cancel',
 
     viewSourceDialogCancelButton: 'Close',
