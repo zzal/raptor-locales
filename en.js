@@ -328,6 +328,18 @@ extendLocale('en', 'English', {
     rieUndoTitle: 'Undo',
     rieUploadTitle: 'Upload',
 
+    rieActionColorAdjustRed: 'Red',
+    rieActionColorAdjustGreen: 'Green',
+    rieActionColorAdjustBlue: 'Blue',
+    rieActionBrightnessBrightness: 'Brightness',
+    rieActionBrightnessContrast: 'Contrast',
+    rieActionGlowAmount: 'Glow Amount',
+    rieActionGlowRadius: 'Glow Radius',
+    rieActionHsl: 'Hue',
+    rieActionHsl: 'Saturation',
+    rieActionHsl: 'Lightness',
+    rieActionPosterize: 'Levels',
+
     viewSourceDialogCancelButton: 'Close',
     viewSourceDialogOKButton: 'Apply source code',
     viewSourceDialogTitle: 'Content source code',
