@@ -19,7 +19,7 @@ extendLocale('cs', 'Čeština', {
     classMenuTitle: "Výběr stylu",
     clearFormattingTitle: "Vymazat formátování",
     clickButtonToEditText: "Úpravy",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatický",
     colorMenuBasicBlack: "Černá",
     colorMenuBasicBlue: "Modrá",
