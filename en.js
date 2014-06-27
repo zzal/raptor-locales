@@ -18,6 +18,7 @@ extendLocale('en', 'English', {
     cancelTitle: 'Cancel editing',
 
     classMenuTitle: 'Style picker',
+    cleanBlockTitle: 'Clean block',
     clearFormattingTitle: 'Clear formatting',
     clickButtonToEditText: 'Edit',
     clickButtonToEditTitle: null,
@@ -50,6 +51,10 @@ extendLocale('en', 'English', {
     errorUINoName: 'UI "{{ui}}" is invalid (must have a name property)',
     errorUINotObject: 'UI "{{ui}}" is invalid (must be an object)',
     errorUIOverride: 'UI "{{name}}" has already been registered, and will be overwritten',
+
+    editPageDialogTitle: 'Edit Page',
+    editPageDialogOKButton: 'Save',
+    editPageDialogCancelButton: 'Cancel',
 
     floatLeftTitle: 'Align image to the left',
     floatNoneTitle: 'Remove image align',
@@ -305,7 +310,7 @@ extendLocale('en', 'English', {
     rieBrightnessTitle: 'Brightness/Contrast',
     rieCancel: 'Cancel',
     rieCancelTitle: 'Cancel',
-    rieColorAdjustTitle: 'Adjsut Color',
+    rieColorAdjustTitle: 'Adjust Color',
     rieCropTitle: 'Crop',
     rieDesaturateTitle: 'Desaturate',
     rieFlipHTitle: 'Flip Horizontally',
